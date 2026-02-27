@@ -7,8 +7,7 @@
 # Jesus Mario Caro Quintana
 
 # -Descripcion:
-# Repositorio de la materia de ciencia de datos del horario de 12:00 pm a 1:00 pm 
-# el cual cumple la funcion de subir las tareas y proyectos sobre la mataria.
+# Repositorio de la materia de ciencia de datos del horario de 12:00 pm a 1:00 pm el cual cumple la funcion de subir las tareas y proyectos sobre la mataria.
 
 # -Profesor:
 # Mora Felix Zuriel Dathan
